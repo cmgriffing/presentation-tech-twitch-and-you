@@ -2,6 +2,8 @@
 
 ## codinggarden
 
+![](./assets/codinggarden.jpg)
+
 - Very focused on learning
 
 - Such a nice person

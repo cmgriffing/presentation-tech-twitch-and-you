@@ -20,6 +20,6 @@ There are big streams that I might not mention just because they don't focus on 
 
 I am probably leaving some people out due to time constraints.
 
-Head to Twitch and find more awesome streams I may have forgotten.
+Head to [Twitch](https://www.twitch.tv/directory/game/Science%20%26%20Technology) and find more awesome streams.
 
 ---
