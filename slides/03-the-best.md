@@ -15,7 +15,7 @@
 
 ## jlengstorf
 
-![](./assets/jlengstorf)
+![](./assets/jlengstorf.jpg)
 
 <div class="notes">
 - Dev Advocate for Netlify
