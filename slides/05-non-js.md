@@ -1,5 +1,6 @@
 ## Non-JS focused (general)
 
+- [adam13531](https://www.twitch.tv/adam13531)
 - [csharpfritz](https://www.twitch.tv/csharpfritz)
 - [beginbot](https://www.twitch.tv/beginbot)
 - [georgehotz](https://www.twitch.tv/georgehotz)
@@ -9,7 +10,6 @@
 
 ## Non-JS focused (part 2)
 
-- [adam13531](https://www.twitch.tv/adam13531)
 - [cybermentor](https://www.twitch.tv/cybermentor)
 - [enceladosaurus](https://www.twitch.tv/enceladosaurus)
 - [lastmiles](https://www.twitch.tv/lastmiles)
@@ -40,6 +40,15 @@
 
 - [lana_lux](https://www.twitch.tv/lana_lux)
 - [j_blow](https://www.twitch.tv/j_blow)
+- [jhovgaard](https://www.twitch.tv/jhovgaard)
+- [jitspoe](https://www.twitch.tv/jitspoe)
+- [timbeaudet](https://www.twitch.tv/timbeaudet)
+
+## Other (Podcast style or Q&A focused)
+
+- [cassidoo](https://www.twitch.tv/cassidoo)
+- [chloecondon](https://www.twitch.tv/chloecondon)
+- [metzinaround](https://www.twitch.tv/metzinaround)
 
 ## Startup Focused
 

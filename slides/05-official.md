@@ -3,7 +3,7 @@
 - [apollographql](https://www.twitch.tv/apollographql)
 - [aws](https://www.twitch.tv/aws)
 - [codeitlive](https://www.twitch.tv/codeitlive) (telerik)
-- [contenfuldevs](https://www.twitch.tv/contentfuldevs)
+- [contentfuldevs](https://www.twitch.tv/contentfuldevs)
 - [hasurahq](https://www.twitch.tv/hasurahq)
 - [ibmdevelopers](https://www.twitch.tv/ibmdevelopers)
 - [github](https://www.twitch.tv/github)
