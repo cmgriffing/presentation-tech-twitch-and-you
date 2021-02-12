@@ -9,7 +9,9 @@
 <style>
 /* Global Styles go here */
 
-
+.reveal img {
+  max-height: 60vh;
+}
 
 </style>
 
