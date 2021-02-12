@@ -8,7 +8,9 @@
 
 ## Mostly JS Focused
 
-This is focused on JS streams.
+This talk is focused on JS streams.
+
+Also English focused.
 
 I will mention some others towards the end.
 

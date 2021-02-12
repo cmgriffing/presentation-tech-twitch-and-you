@@ -4,7 +4,7 @@
 
 ![](./assets/codinggarden.jpg)
 
-<div class=""notes>
+<div class="notes">
 - Very focused on learning
 
 - Such a nice person
@@ -15,7 +15,7 @@
 
 ## jlengstorf
 
-![](./assets/jlengstorf.jpg)
+![](./assets/jlengstorf.jpeg)
 
 <div class="notes">
 - Dev Advocate for Netlify
